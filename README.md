@@ -1,62 +1,166 @@
-Allgemeine Geschäftsbedingungen (AGB)
-Zuletzt aktualisiert: 17. März 2026
-
-Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie die App „oratrek“ nutzen.
-
----
-
-### 1. Geltungsbereich
-Diese AGB regeln die Nutzung der App „oratrek“ (im Folgenden „App“), die von Lars Hebing privat und nicht gewerblich betrieben wird. Die App ist **offline-zentriert** und verarbeitet Daten nur, soweit dies für die Kernfunktionen erforderlich ist oder Sie explizit zustimmen.
+# Allgemeine Geschäftsbedingungen (AGB) und Endnutzer-Lizenzvertrag (EULA)  
+**für die App „oratrek“**  
+**Stand: 17. März 2026**
 
 ---
 
-### 2. Nutzung der App
-- Die App darf nur für **private, nicht-kommerzielle Zwecke** genutzt werden.
-- Die App richtet sich **nicht an Kinder unter 18 Jahren**. Durch die Nutzung bestätigen Sie, dass Sie mindestens 18 Jahre alt sind.
-- Sie dürfen die App **nicht kopieren, verändern, weiterverkaufen oder für illegale Zwecke nutzen**.
+## 1. Anbieter und Geltungsbereich
 
----
+(1) Diese Allgemeinen Geschäftsbedingungen (AGB) und der Endnutzer-Lizenzvertrag (EULA) regeln die Nutzung der mobilen Anwendung „oratrek“ (nachfolgend „App“).
 
-### 3. Datenschutz
-- Die App erhebt **keine personenbezogenen Daten**, es sei denn, Sie stimmen explizit zu (z. B. für Strava-Uploads oder Crashlytics/Analytics).
-- Details zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung.
-- Die App nutzt **Drittanbieter wie Strava, Cloudflare, Firebase und Hetzner** nur bei Ihrer Zustimmung oder für technische Funktionen (z. B. Karten-Downloads).
-
----
-
-### 4. Haftungsausschluss
-- Die App wird **ohne Gewähr** bereitgestellt. Der Betreiber übernimmt **keine Haftung für Schäden**, die durch die Nutzung der App entstehen, soweit dies gesetzlich zulässig ist.
-- Insbesondere wird keine Garantie für die **Fehlerfreiheit, Verfügbarkeit oder Sicherheit** der App übernommen.
-- Die Haftung für **grobe Fahrlässigkeit oder Vorsatz** bleibt unberührt.
-
----
-
-### 5. Beendigung der Nutzung
-- Der Betreiber kann den Zugang zur App **jederzeit ohne Angabe von Gründen** einstellen oder einschränken.
-- Sie können die Nutzung der App **jederzeit beenden**, indem Sie sie von Ihrem Gerät entfernen.
-
----
-
-### 6. Änderungen der AGB
-- Der Betreiber behält sich vor, diese AGB **jederzeit zu ändern**.
-- **Wesentliche Änderungen** (z. B. neue Pflichten für Nutzer oder Datenverarbeitungen) werden Ihnen **beim nächsten Start der App** angezeigt.
-- Sie können die Änderungen in den AGB einsehen und müssen diese **vor der weiteren Nutzung bestätigen**.
-- Durch die weitere Nutzung der App nach einer Änderung stimmen Sie den neuen AGB zu.
-
----
-
-### 7. Anwendbares Recht und Streitbeilegung
-- Diese AGB unterliegen dem **Recht der Bundesrepublik Deutschland** (Nordrhein-Westfalen).
-- Bei Streitigkeiten wird eine **einvernehmliche Lösung** angestrebt. Bitte kontaktieren Sie den Betreiber zunächst per E-Mail.
-- Für Verbraucher in der EU gelten die **zwingenden Vorschriften ihres Wohnsitzlandes**.
-
----
-
-### 8. Salvatorische Klausel
-Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt der Rest der AGB davon unberührt.
-
----
-
-### 9. Kontakt
-Bei Fragen zu diesen AGB oder zum Datenschutz können Sie den Betreiber kontaktieren:
+(2) Anbieter der App ist:  
+**Lars Hebing**  
+Kardenstr. 102
+45768 Marl, Deutschland
 E-Mail: veloq.tracker@gmail.com
+
+(3) Die App richtet sich an Verbraucher im Sinne von § 13 BGB.
+
+(4) Abweichende Bedingungen der Nutzer finden keine Anwendung.
+
+---
+
+## 2. Vertragsgegenstand
+
+(1) Die App stellt Funktionen zur **Aufzeichnung, Darstellung und Auswertung von Bewegungs- und Positionsdaten** bereit.
+
+(2) Die App ist **offline-zentriert**, kann jedoch optional Online-Dienste und Drittanbieter integrieren.
+
+(3) Die App dient ausschließlich als **technische Unterstützung und Orientierungshilfe**. Sie stellt **keine Navigationslösung im rechtlichen oder sicherheitskritischen Sinne** dar.
+
+---
+
+## 3. Lizenzgewährung
+
+(1) Der Anbieter gewährt dem Nutzer eine **einfache, nicht ausschließliche, nicht übertragbare und widerrufliche Lizenz**, die App auf kompatiblen Endgeräten zu installieren und zu nutzen.
+
+(2) Die Nutzung ist ausschließlich für **private, nicht-kommerzielle Zwecke** gestattet.
+
+(3) Der Nutzer erwirbt **kein Eigentum** an der App oder deren Bestandteilen.
+
+---
+
+## 4. Nutzungsbeschränkungen
+
+Der Nutzer ist insbesondere nicht berechtigt:
+
+- die App zu vervielfältigen, zu verändern, zu dekompilieren oder zurückzuentwickeln, soweit dies nicht gesetzlich erlaubt ist,
+- die App zu vermieten, zu verleihen oder kommerziell zu verwerten,
+- die App für rechtswidrige Zwecke zu verwenden.
+
+---
+
+## 5. Nutzung und Verantwortung
+
+(1) Die Nutzung der App erfolgt **auf eigene Verantwortung**.
+
+(2) Die App darf nicht so verwendet werden, dass **Aufmerksamkeit oder Reaktionsfähigkeit im Straßenverkehr oder in sonstigen sicherheitskritischen Situationen beeinträchtigt werden**. Es gelten die jeweils einschlägigen gesetzlichen Vorschriften (z. B. Straßenverkehrsordnung).
+
+(3) Der Nutzer ist selbst dafür verantwortlich, seine Umgebung, Wetterbedingungen, Verkehrsregeln und persönliche Fähigkeiten angemessen zu berücksichtigen.
+
+---
+
+## 6. Keine Gewähr für Genauigkeit und Verfügbarkeit
+
+(1) Die App verarbeitet Daten (z. B. GPS, Sensoren), deren **Genauigkeit technisch bedingt eingeschränkt sein kann**.
+
+(2) Es wird **keine Gewähr übernommen** für:
+- die Richtigkeit, Vollständigkeit oder Aktualität von Positionsdaten,
+- Kartenmaterial oder Routen,
+- Messwerte wie Geschwindigkeit, Distanz oder Höhenmeter.
+
+(3) Die App ist **nicht geeignet für**:
+- sicherheitskritische Navigation,
+- professionelle oder behördliche Anwendungen,
+- medizinische oder sportwissenschaftliche Analysen.
+
+(4) Eine **ständige Verfügbarkeit** der App wird nicht geschuldet.
+
+---
+
+## 7. Drittanbieter und externe Dienste
+
+(1) Die App kann Dienste Dritter integrieren (z. B. Strava, Firebase, Cloudflare, Hosting-Anbieter).
+
+(2) Bei Nutzung solcher Dienste können Daten an die jeweiligen Anbieter übertragen werden.
+
+(3) Die Verarbeitung erfolgt entweder:
+- im Rahmen einer Auftragsverarbeitung oder  
+- in eigener Verantwortung des jeweiligen Drittanbieters.
+
+(4) Es gelten zusätzlich die Datenschutzbestimmungen der jeweiligen Anbieter.
+
+---
+
+## 8. Datenschutz
+
+(1) Die Verarbeitung personenbezogener Daten erfolgt ausschließlich im Rahmen der geltenden Datenschutzgesetze, insbesondere der DSGVO.
+
+(2) Personenbezogene Daten werden nur verarbeitet:
+- soweit dies technisch erforderlich ist oder  
+- auf Grundlage einer ausdrücklichen Einwilligung des Nutzers.
+
+(3) Details ergeben sich aus der gesonderten Datenschutzerklärung.
+
+---
+
+## 9. Haftung
+
+(1) Der Anbieter haftet unbeschränkt:
+- bei Vorsatz und grober Fahrlässigkeit,  
+- bei Verletzung von Leben, Körper oder Gesundheit,  
+- nach den Vorschriften des Produkthaftungsgesetzes.
+
+(2) Bei leichter Fahrlässigkeit haftet der Anbieter nur bei Verletzung einer **wesentlichen Vertragspflicht (Kardinalpflicht)**. In diesem Fall ist die Haftung auf den **typischerweise vorhersehbaren Schaden** begrenzt.
+
+(3) Eine weitergehende Haftung ist ausgeschlossen.
+
+(4) Die vorstehenden Haftungsbeschränkungen gelten auch zugunsten von Erfüllungsgehilfen.
+
+---
+
+## 10. Datenverlust
+
+Der Anbieter übernimmt keine Haftung für den Verlust von Daten, soweit dieser nicht im Rahmen der Haftungsregelungen gemäß § 9 zu vertreten ist. Der Nutzer ist für eine regelmäßige Sicherung seiner Daten selbst verantwortlich.
+
+---
+
+## 11. Beendigung
+
+(1) Der Anbieter kann die Bereitstellung der App jederzeit einstellen oder ändern.
+
+(2) Der Nutzer kann die Nutzung jederzeit durch Deinstallation der App beenden.
+
+(3) Bei Verstößen gegen diese Bedingungen kann die Nutzung eingeschränkt oder beendet werden.
+
+---
+
+## 12. Änderungen der AGB/EULA
+
+(1) Der Anbieter behält sich vor, diese AGB/EULA mit Wirkung für die Zukunft zu ändern.
+
+(2) Wesentliche Änderungen werden dem Nutzer in geeigneter Weise (z. B. beim Start der App) mitgeteilt.
+
+(3) Die weitere Nutzung nach Mitteilung gilt als Zustimmung, sofern der Nutzer nicht widerspricht.
+
+---
+
+## 13. Anwendbares Recht
+
+(1) Es gilt das Recht der Bundesrepublik Deutschland.
+
+(2) Für Verbraucher gilt diese Rechtswahl nur, soweit dadurch keine zwingenden gesetzlichen Bestimmungen des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, eingeschränkt werden.
+
+---
+
+## 14. Salvatorische Klausel
+
+Sollte eine Bestimmung dieser AGB/EULA ganz oder teilweise unwirksam sein, gelten anstelle der unwirksamen Bestimmung die gesetzlichen Vorschriften.
+
+---
+
+## 15. Kontakt
+
+E-Mail: veloq.tracker@gmail.com
+
+---
