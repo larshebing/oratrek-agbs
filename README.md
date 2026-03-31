@@ -12,7 +12,7 @@
 **Lars Hebing**  
 Kardenstr. 102
 45768 Marl, Deutschland
-E-Mail: veloq.tracker@gmail.com
+E-Mail: oratrek@gmail.com
 
 (3) Die App richtet sich an Verbraucher im Sinne von § 13 BGB.
 
@@ -161,6 +161,6 @@ Sollte eine Bestimmung dieser AGB/EULA ganz oder teilweise unwirksam sein, gelte
 
 ## 15. Kontakt
 
-E-Mail: veloq.tracker@gmail.com
+E-Mail: oratrek@gmail.com
 
 ---
