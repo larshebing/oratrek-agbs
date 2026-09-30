@@ -1,6 +1,6 @@
 # Allgemeine Geschäftsbedingungen (AGB) und Endnutzer-Lizenzvertrag (EULA)  
 **für die App „oratrek“**  
-**Stand: 17. März 2026**
+**Stand: 29. September 2026**
 
 ---
 
@@ -80,7 +80,7 @@ Der Nutzer ist insbesondere nicht berechtigt:
 
 ## 7. Drittanbieter und externe Dienste
 
-(1) Die App kann Dienste Dritter integrieren (z. B. Strava, Firebase, Cloudflare, Hosting-Anbieter).
+(1) Die App kann Dienste Dritter integrieren (z. B. Intervals.icu, Firebase, Cloudflare, Hosting-Anbieter).
 
 (2) Bei Nutzung solcher Dienste können Daten an die jeweiligen Anbieter übertragen werden.
 
